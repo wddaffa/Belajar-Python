@@ -1,3 +1,3 @@
 # Belajar-Python
 Pengenealan
-https://raw.githubusercontent.com/wddaffa/Perkenalan-Nama-Aing/main/ss%20hasil%20dari%20program%20pythone%20yang%20di%20susun%20untuk%20perkenalan.PNG
+![Capture](https://user-images.githubusercontent.com/92866919/140329458-44e3937b-2f22-4935-99ee-a7b66d71b4e2.PNG)
